@@ -1,0 +1,76 @@
+body {
+                margin: 0;
+                border: 0;
+                font-family: 'Lobster', cursive;
+                width: 770px;
+                height: 1000px;
+                background-image: linear-gradient(to right, #FF9F04,#F9F8F6 );
+            }
+            
+            h1 {
+                color: #5E271E;
+                width: 100%;
+                padding-left: 550px;
+                padding-top: 5px;
+                padding-bottom: 5px;
+            }
+                                                
+            .logo {
+                position: fixed;
+                margin-left: 5px;
+                margin-top: 80px;
+                
+            }
+            
+            .img-size {
+                margin: 5px;
+                height: 30px;
+            }
+            
+            .img-size1 {
+                margin: 5px 5px 5px 0px;
+                height: 25px;
+            }
+            
+            .left-fir {
+                height: 250px;
+                width: 1220px;
+                margin: 10px 10px 10px 50px;
+            }
+            
+            .veena-babe {
+                height: 200px;
+                
+                margin-left: 10px;
+                float :left;
+            }
+            
+            .paragraph-text {
+                color: #5E271E;
+                width:870px;
+                margin-left: 325px;
+            }
+            
+            .clear-float {
+                clear: both;
+            }
+            
+            .veena-babe1 {
+                height: 200px;
+                width: 230px;
+                
+                margin-right: 50px;
+                float :right;
+            }
+            
+            .paragraph-text1 {
+                color: #5E271E;
+                width:870px;
+                margin-right: 325px;
+            }
+            
+            #paragraph-text2 {
+                color: #5E271E;
+                width:650px;
+                margin-left: 400px;
+            }
