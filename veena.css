@@ -4,7 +4,7 @@ body {
                 font-family: 'Lobster', cursive;
                 width: 770px;
                 height: 1000px;
-                background-image: linear-gradient(to right, #FF9F04,#F9F8F6 );
+                background-image: linear-gradient(to bottom right, #FF9F04,#F9F8F6 );
             }
             
             h1 {
