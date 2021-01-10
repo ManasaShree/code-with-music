@@ -1,10 +1,18 @@
-body {
+        html {
+                height: 100%;
+                width: 100%;
+            }
+
+
+        body {
                 margin: 0;
                 border: 0;
                 font-family: 'Lobster', cursive;
                 width: 770px;
                 height: 1000px;
                 background-image: linear-gradient(to bottom right, #FF9F04,#F9F8F6 );
+                background-repeat: no-repeat;
+                background-attachment: fixed;
             }
             
             h1 {
