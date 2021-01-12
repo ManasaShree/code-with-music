@@ -64,21 +64,27 @@
             }
             
             .veena-babe1 {
-                height: 200px;
-                width: 230px;
+                width: 400px;
                 
-                margin-right: 50px;
-                float :right;
+                margin-left: 100px;
+                float :left;
             }
             
             .paragraph-text1 {
                 color: #5E271E;
-                width:870px;
-                margin-right: 325px;
+                width:1050px;
+                margin-left: 15px;
             }
             
-            #paragraph-text2 {
+            .paragraph-text2 {
                 color: #5E271E;
                 width:650px;
-                margin-left: 400px;
+                margin-left: 100px;
+                float: left;
+            }
+            
+            .vasuki {
+                height: 300px;
+                float: left;
+                margin: 15px 5px 5px 10px;
             }
